@@ -1,0 +1,61 @@
+# ---------------------------
+# Java / JVM
+# ---------------------------
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE Build Folders
+/bin/
+/target/
+/out/
+
+# Logs
+*.log
+
+# ---------------------------
+# Python
+# ---------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+.venv/
+venv/
+
+# ---------------------------
+# IDE / Editor
+# ---------------------------
+
+# IntelliJ / JetBrains
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# ---------------------------
+# OS / System
+# ---------------------------
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# ---------------------------
+# Misc
+# ---------------------------
+*.tmp
+*.swp
+*.swo
